@@ -1,5 +1,5 @@
 {
-    "name": "Yukki Music Bot",
+    "name": "ᴍᴏᴏɴʟɪɢʜᴛ ᴍᴜsɪᴄ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
     "keywords": [
@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "ᴍᴏᴏɴʟɪɢʜᴛ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5920701493 , 5886326864",
         "required": true
       },
       "STRING_SESSION": {
@@ -65,7 +65,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "1001903508531",
         "required": true
       },
       "UPSTREAM_REPO": {
